@@ -3,7 +3,7 @@
 ![Welcome](https://github.com/Ich1ro/Ich1ro/blob/main/assets/japan-anime.gif) 
 </h1>
 
-## about me
+## About me
 
 ### - I'm beginner Web-Developer from Ukraine
 
