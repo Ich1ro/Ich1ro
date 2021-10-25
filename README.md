@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: 
 - 📝 I regulary write articles on
 -  
-#
+
 ### - My hobbies: 
 - 🎮 Play games
 - ✨ Watching Anime
