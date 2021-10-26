@@ -39,7 +39,7 @@
 
 <h2 align="right">
 
-![contactme](https://github.com/Ich1ro/Ich1ro/blob/main/assets/japan-anime.gif)
+![contactme](https://github.com/Ich1ro/Ich1ro/blob/main/assets/av.gif)
 
 
 
