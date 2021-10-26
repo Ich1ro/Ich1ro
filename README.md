@@ -1,7 +1,9 @@
-<h1 align="center"> ~ 💖Welcome to my profile💖 ~ 
+<h1 align="center"> ~ 💖Welcome to my profile💖 ~ </h1>
+
+<h2 align="center"> 
 
 ![Welcome](https://github.com/Ich1ro/Ich1ro/blob/main/assets/japan-anime.gif) 
-</h1>
+
 
 ## About me
 
@@ -11,8 +13,6 @@
 
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)](https://reactjs.org/)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
-
 
 
 ### - My hobbies: 
@@ -35,5 +35,11 @@
   
 </p>
 
-contact me
+## contact me
+
+<h2 align="right">
+
+![contactme](https://github.com/Ich1ro/Ich1ro/blob/main/assets/japan-anime.gif)
+
+
 
