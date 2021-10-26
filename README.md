@@ -35,11 +35,13 @@
 </p>
 
 ## contact me
-<p>
-</br>
 
-<img hight="90" width="90" alt="cat" align="right" scr="https://github.com/Ich1ro/Ich1ro/blob/main/assets/av.gif"> 
+[![Telegram](https://img.shields.io/badge/Telegram-%40qqcold-2CA5E0)](https://t.me/qqcold) 
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+<div align="right">
 
-</p>
+![cat](https://github.com/Ich1ro/Ich1ro/blob/main/assets/av.gif) 
+</div>
+
+
+
