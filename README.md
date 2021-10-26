@@ -34,12 +34,11 @@
   
 </p>
 
-## contact me
-<div>
+## Contact me
+<div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40qqcold-2CA5E0)](https://t.me/qqcold) 
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-pavel.dubenchuk.02%40gmail.com-orange)](mailto:pavel.dubenchuk.02@gmail.com)
 
 ![cat](https://github.com/Ich1ro/Ich1ro/blob/main/assets/av.gif) 
 
