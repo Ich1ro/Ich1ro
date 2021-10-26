@@ -12,8 +12,7 @@
 ### -🌱 I’m currently learning: 
 
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)](https://reactjs.org/)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)
 
 ### - My hobbies: 
 - 🎮 Play games
@@ -37,9 +36,13 @@
 
 ## contact me
 
-<h2 align="right">
-
-![contactme](https://github.com/Ich1ro/Ich1ro/blob/main/assets/av.gif)
+<h2 align="right"> 
 
 
+
+![contactme](https://github.com/Ich1ro/Ich1ro/blob/main/assets/av.gif)</h2>
+
+
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
 
